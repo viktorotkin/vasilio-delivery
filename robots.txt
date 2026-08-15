@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://viktorotkin.github.io/vasilio-delivery/sitemap.xml
